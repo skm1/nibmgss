@@ -1,2 +1,5 @@
 # nibmgss
 Data package, R code and documentation for analysis of septic shock gene expression data sets
+Electronic search was performed on medical literature and gene expression databases. Selection of septic shock (SS) studies was based on the organism (human subjects), tissue of origin (circulating leukocytes) and the platform technology (gene expression microarray). Gene-level meta-analysis was conducted on the six selected studies (from Gene Expression Omnibus) to identify the genes consistently differentially expressed in septic shock. These genes were then subjected to pathway analysis, revealing that up-regulation of the KEGG pathway hsa04380 (Osteoclast Differentiation) is associated with SS. Validation was performed on an independent cohort of SS cases (data generated at the National Institute of Biomedical Genomics, India). The data sets are packaged in an R data package called 'nibmgss' and may be downloaded from the github repository at https://github.com/skm1/nibmgss.
+The code for analysis of data are available.
+For more details contact Dr. Saroj Kant Mohapatra <skm1@nibmg.ac.in>.
